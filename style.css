@@ -1,0 +1,25 @@
+/*---------------------------------------------------------Common for all-----------------------------------------------------------*/
+
+body
+{ 
+    font: 14px sans-serif; 
+    background: url(./Images/abstract.jpg);
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.wrapper
+{ 
+    width: 350px; 
+    padding: 20px; 
+    line-height: 35px;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.showpassword
+{
+    display: inline-block;
+}
+/*-------------------------------------------------About us --------------------------------------------------------*/
